@@ -13,3 +13,10 @@
 icons {
   @apply cursor-pointer
 }
+
+
+.blur {
+  mix-blend-mode: multiply;
+  filter: blur(2);
+  
+}

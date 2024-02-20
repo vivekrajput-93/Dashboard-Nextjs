@@ -18,7 +18,11 @@ const config: Config = {
         'span' : '#F5F5F5',
         'chat' : '#1c2a4e',
         'phone' : '#2c3a58',
-       
+        'hand' : '#E6D78C',
+        'patient' : '#1b2c4f',
+        'semi' : '#366aa3',
+        'one' : '#abeeea'
+        
       },
     },
   },
