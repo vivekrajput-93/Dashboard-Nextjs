@@ -21,7 +21,11 @@ const config: Config = {
         'hand' : '#E6D78C',
         'patient' : '#1b2c4f',
         'semi' : '#366aa3',
-        'one' : '#abeeea'
+        'one' : '#abeeea',
+        'oneth' : '#f5e5e5',
+        "ten" : '#e5f5e6',
+        'eleven' : "#c9f3ec",
+        "mod" : "#c1e2f4",
         
       },
     },

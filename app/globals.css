@@ -20,3 +20,7 @@ icons {
   filter: blur(2);
   
 }
+
+.dotted {
+  border-top: dotted 1px;
+}
